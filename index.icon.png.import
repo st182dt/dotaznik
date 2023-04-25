@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/index.icon.png-ad71fc480887307a2f5a813bd174e829.stex"
+path="res://.import/index.icon.png-c58b345e953679a5292d4fe04dffca1e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Dotaznik/index.icon.png"
-dest_files=[ "res://.import/index.icon.png-ad71fc480887307a2f5a813bd174e829.stex" ]
+source_file="res://DOTANIK/index.icon.png"
+dest_files=[ "res://.import/index.icon.png-c58b345e953679a5292d4fe04dffca1e.stex" ]
 
 [params]
 
